@@ -1,1 +1,3 @@
 # Expedia-Hotel-Recommendations
+
+예측 분석 수행 및 추가 첨삭 예정...
